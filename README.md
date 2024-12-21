@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a Software Developer, passionate about AI, we
 ## 🚀 About Me
 - 🌱 I’m currently learning React, Node.js, Angular
 - 🔭 I’m working on Data Management System
-- 📫 How to reach me: [email@example.com](tsholofelomotswane773@gmail.com)
+- 📫 How to reach me: (tsholofelomotswane773@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![C#](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
